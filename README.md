@@ -1,2 +1,2 @@
-# codeAlpha_CGPA-Calculator
+# C++-CGPA-Calculator
 A simple c++ CGPA calculator .
